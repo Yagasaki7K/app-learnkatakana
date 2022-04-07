@@ -123,6 +123,9 @@ function App() {
 					<p>{ error }</p>
 				</div>
 			}
+
+			<p>Learn too about <a href="https://learnhiragana.vercel.app/" target="_blank" style={{color: "#7159c1", textDecoration: "underline"}}>Hiragana</a></p>
+			<p style={{fontSize: "14px"}}>Made with 💜 by Anderson "Yagasaki" Marlon</p>
 		</div>
 	)
 }
